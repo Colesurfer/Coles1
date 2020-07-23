@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Kaushan Script';
+  font-size: 22px;
+}
+
+h1 {
+  color: #66BFBF;
+  margin-top: 0;
+  font-family: 'Allan';
+  font-size: 60px;
+}
+
+h2 {
+  color: white;
+  font-size: 2.5rem
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+h4 {
+  color: #11999E;
+}
+
+
+
+p {
+  color: white;
+}
+
+.top-container {
+  background-color: #111d5e;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 600px;
+  text-align: center;
+}
+
+.description {
+  color: white
+}
+
+.footer-link {
+  color: #006a71;
+  margin:10px 20px;
+}
+
+.footer-link:hover{color:red;}
+
+.btn {
+  color: #11999E;
+}
+
+.Pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 20rem;
+}
+
+.JJF {
+  border-radius: 90%;
+  width: 35%;
+  font-size: 3rem;
+  float: left;
+  margin-right: 30px;
+}
+
+.vw {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.giphy {
+  width: 50%;
+  margin-left: 30px;
+  margin-top: 200px;
+  position: absolute;
+}
+
+.gip2 {
+  width: 100%;
+  position: relative;
+  margin-top: 300px;
+}
+
+.gip3 .style {
+  color: white;
+  font-family: 'Aguafina Script';
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.btn {
+  background: #a5d934;
+  background-image: -webkit-linear-gradient(top, #a5d934, #e0d12d);
+  background-image: -moz-linear-gradient(top, #a5d934, #e0d12d);
+  background-image: -ms-linear-gradient(top, #a5d934, #e0d12d);
+  background-image: -o-linear-gradient(top, #a5d934, #e0d12d);
+  background-image: linear-gradient(to bottom, #a5d934, #e0d12d);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #1a0e1a;
+  font-family: Arial;
+  color: #f0ebf0;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fc3c3c;
+  background-image: -webkit-linear-gradient(top, #fc3c3c, #0341fa);
+  background-image: -moz-linear-gradient(top, #fc3c3c, #0341fa);
+  background-image: -ms-linear-gradient(top, #fc3c3c, #0341fa);
+  background-image: -o-linear-gradient(top, #fc3c3c, #0341fa);
+  background-image: linear-gradient(to bottom, #fc3c3c, #0341fa);
+  text-decoration: none;
+}
+
+.h5{font-size: 0.75rem;
+color: white;}
